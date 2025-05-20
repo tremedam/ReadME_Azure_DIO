@@ -1,4 +1,4 @@
-# azure-study-project
+# Repositório de Consulta Azure
 
 Este repositório contém resumos, anotações e dicas sobre o uso da Microsoft Azure. Ele foi criado como material de apoio para estudos e futuras implementações, sendo útil tanto para iniciantes quanto para profissionais que desejam revisar conceitos.
 
