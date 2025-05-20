@@ -7,21 +7,21 @@ Este repositório contém resumos, anotações e dicas sobre o uso da Microsoft 
 - **Introdução à Azure**: Conceitos básicos e visão geral da plataforma.
   - [Introdução](1-Introducao/introducao.md)
 - **Serviços Principais**: Resumos sobre os principais serviços, como:
-  - [Azure Virtual Machines (VMs)](Servicos_Principais/azure_virtual_machines.md)
-  - [Azure App Services](Servicos_Principais/azure_app_services.md)
-  - [Azure Functions](Servicos_Principais/azure_functions.md)
-  - [Azure Storage](Servicos_Principais/azure_storage.md)
+  - [Azure Virtual Machines (VMs)](2-Servicos_Principais/azure_virtual_machines.md)
+  - [Azure App Services](2-Servicos_Principais/azure_app_services.md)
+  - [Azure Functions](2-Servicos_Principais/azure_functions.md)
+  - [Azure Storage](2-Servicos_Principais/azure_storage.md)
 - **Gerenciamento e Monitoramento**:
-  - [Azure Resource Manager (ARM)](Gerenciamento_e_Monitoramento/azure_resource_manager.md)
-  - [Azure Monitor](Gerenciamento_e_Monitoramento/azure_monitor.md)
-  - [Logs e Métricas](Gerenciamento_e_Monitoramento/logs_e_metricas.md)
+  - [Azure Resource Manager (ARM)](3-Gerenciamento_e_Monitoramento/azure_resource_manager.md)
+  - [Azure Monitor](3-Gerenciamento_e_Monitoramento/azure_monitor.md)
+  - [Logs e Métricas](3-Gerenciamento_e_Monitoramento/logs_e_metricas.md)
 - **Segurança e Identidade**:
-  - [Azure Active Directory (AAD)](Seguranca_e_Identidade/azure_active_directory.md)
-  - [Gerenciamento de Identidades e Acessos (IAM)](Seguranca_e_Identidade/gerenciamento_de_identidades_e_acessos.md)
+  - [Azure Active Directory (AAD)](4-Seguranca_e_Identidade/azure_active_directory.md)
+  - [Gerenciamento de Identidades e Acessos (IAM)](4-Seguranca_e_Identidade/gerenciamento_de_identidades_e_acessos.md)
 - **Práticas e Dicas**:
-  - [Melhores práticas para implementação](Praticas_e_Dicas/melhores_praticas.md)
-  - [Dicas para otimização de custos](Praticas_e_Dicas/otimizacao_de_custos.md)
-  - [Ferramentas úteis para desenvolvedores](Praticas_e_Dicas/ferramentas_para_desenvolvedores.md)
+  - [Melhores práticas para implementação](5-Praticas_e_Dicas/melhores_praticas.md)
+  - [Dicas para otimização de custos](5-Praticas_e_Dicas/otimizacao_de_custos.md)
+  - [Ferramentas úteis para desenvolvedores](5-Praticas_e_Dicas/ferramentas_para_desenvolvedores.md)
 
 ## Como Usar Este Repositório
 
