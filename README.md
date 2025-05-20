@@ -5,7 +5,7 @@ Este repositório contém resumos, anotações e dicas sobre o uso da Microsoft 
 ## Estrutura do Repositório
 
 - **Introdução à Azure**: Conceitos básicos e visão geral da plataforma.
-  - [Introdução](Introducao/introducao.md)
+  - [Introdução](1-Introducao/introducao.md)
 - **Serviços Principais**: Resumos sobre os principais serviços, como:
   - [Azure Virtual Machines (VMs)](Servicos_Principais/azure_virtual_machines.md)
   - [Azure App Services](Servicos_Principais/azure_app_services.md)
